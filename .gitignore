@@ -1,0 +1,33 @@
+# Node/Python/PHP common
+node_modules/
+__pycache__/
+*.pyc
+env/
+venv/
+.env
+.DS_Store
+*.log
+
+
+# IDEs
+.vscode/
+.idea/
+
+
+# OS
+Thumbs.db
+
+
+# Secrets
+secrets.txt
+*.pem
+*.key
+
+
+# Build outputs
+dist/
+build/
+
+
+# Sample DB
+samples/sample.db
