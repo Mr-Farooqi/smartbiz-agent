@@ -1,0 +1,6 @@
+openai
+requests
+sqlalchemy
+pydantic
+flask
+python-dotenv
